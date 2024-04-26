@@ -1,4 +1,4 @@
-SUMMURY
+SUMMARY
 
 This project involves simulating the spread
 of a disease using Python. We will select a
